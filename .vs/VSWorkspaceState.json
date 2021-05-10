@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\api",
+    "\\src\\Components",
+    "\\src\\Components\\Cards",
+    "\\src\\Components\\Charts",
+    "\\src\\Components\\CountryPicker",
+    "\\src\\images"
+  ],
+  "SelectedNode": "\\src\\api\\index.js",
+  "PreviewInSolutionExplorer": false
+}
